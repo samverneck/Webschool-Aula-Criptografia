@@ -3,7 +3,7 @@
 #### [WEBSCHOOL](https://github.com/Webschool-io) Criptografia :computer: 
 
 
-* **Professor:**
+* **Professor:** SAMUEL VERNECK
 
 * **Sobre:**
 
