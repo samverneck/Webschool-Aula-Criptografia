@@ -5,7 +5,7 @@
 
 * **Professor:** SAMUEL VERNECK
 
-* **Sobre:**
+* **Sobre:** Curso para que vocês possam desbravar esse universo de enigmas que se tem por ai 
 
 **Criptografia Classica**
 
