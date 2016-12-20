@@ -28,4 +28,4 @@
 **Links para aula**
 * http://crypo.pw/
 
-**Slide**
+**Slide:** https://docs.google.com/presentation/d/17CumFgJASg8zGkPWEzNW1KVnBZrDa0kgutYiDsTG_x0/edit?usp=sharing
