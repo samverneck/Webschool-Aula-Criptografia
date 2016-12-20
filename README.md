@@ -9,11 +9,21 @@
 
 **Criptografia Classica**
 
+* Introdução
+
+* Cifras
+
 * Exemplos
+
+* Exercícios
 
 **Criptografia Moderna**
 
+* Introdução
+
 * Exemplos
+
+* Exercícios
 
 **Links para aula**
 * http://crypo.pw/
